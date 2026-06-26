@@ -11,5 +11,5 @@ Simple URL shortening service.
 - Redis
 - PostgreSQL
 - Docker
-## License
+## 
 MIT
