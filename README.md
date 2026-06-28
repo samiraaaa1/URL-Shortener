@@ -12,4 +12,4 @@ Simple URL shortening service.
 - PostgreSQL
 - Docker
 ## 
-MIT
+MI
