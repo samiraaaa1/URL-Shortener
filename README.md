@@ -10,6 +10,5 @@ Simple URL shortening service.
 - Go
 - Redis
 - PostgreSQL
-- Docker
 ## 
 MI
