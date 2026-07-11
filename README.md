@@ -5,7 +5,7 @@ Simple URL shortening service.
 - QR code generation
 - Click analytics
 - API access
-- Redirect tracking
+-  tracking
 ## Tech Stack
 -Go
 - Redis
